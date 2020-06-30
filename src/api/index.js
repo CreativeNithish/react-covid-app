@@ -44,14 +44,3 @@ export const fetchCountries = async () => {
         console.log(error);
     }
 }
-
-export const fetchExperiments = async () => {
-    try  {
-        const data = await axios.get('https://dev.digitalcitadel.tech/api/2.0/preview/mlflow/registered-models/list');
-        console.log(data);
-        return data;
-    }
-    catch(error) {
-        console.log(error);
-    }
-}

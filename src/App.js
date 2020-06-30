@@ -2,7 +2,7 @@ import React from 'react';
 
 import { Cards, Chart, CountryPicker } from './components';
 import styles from  './App.module.css';
-import { fetchData,  fetchExperiments } from './api';
+import { fetchData } from './api';
 
 import coronaImage from './images/covid.png';
 
@@ -17,8 +17,6 @@ class App extends React.Component {
     async componentDidMount() {
         const fetchedData = await fetchData();
         this.setState({data: fetchedData});
-        const experiments = await fetchExperiments();
-        console.log(experiments)
     }
 
     handleCountryChange = async ( country ) => {
