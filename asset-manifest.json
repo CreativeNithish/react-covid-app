@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/covid-tracker/static/css/main.e502267a.chunk.css",
-    "main.js": "/covid-tracker/static/js/main.0731acb8.chunk.js",
-    "main.js.map": "/covid-tracker/static/js/main.0731acb8.chunk.js.map",
-    "runtime-main.js": "/covid-tracker/static/js/runtime-main.948b6ba1.js",
-    "runtime-main.js.map": "/covid-tracker/static/js/runtime-main.948b6ba1.js.map",
-    "static/js/2.250b8e4b.chunk.js": "/covid-tracker/static/js/2.250b8e4b.chunk.js",
-    "static/js/2.250b8e4b.chunk.js.map": "/covid-tracker/static/js/2.250b8e4b.chunk.js.map",
-    "index.html": "/covid-tracker/index.html",
-    "precache-manifest.b2ebe10cffef78799ba5b81d854aea51.js": "/covid-tracker/precache-manifest.b2ebe10cffef78799ba5b81d854aea51.js",
-    "service-worker.js": "/covid-tracker/service-worker.js",
-    "static/css/main.e502267a.chunk.css.map": "/covid-tracker/static/css/main.e502267a.chunk.css.map",
-    "static/js/2.250b8e4b.chunk.js.LICENSE.txt": "/covid-tracker/static/js/2.250b8e4b.chunk.js.LICENSE.txt",
-    "static/media/covid.png": "/covid-tracker/static/media/covid.d7265326.png"
+    "main.css": "/react-covid-app/static/css/main.e502267a.chunk.css",
+    "main.js": "/react-covid-app/static/js/main.0731acb8.chunk.js",
+    "main.js.map": "/react-covid-app/static/js/main.0731acb8.chunk.js.map",
+    "runtime-main.js": "/react-covid-app/static/js/runtime-main.ab6ab947.js",
+    "runtime-main.js.map": "/react-covid-app/static/js/runtime-main.ab6ab947.js.map",
+    "static/js/2.a0d60c39.chunk.js": "/react-covid-app/static/js/2.a0d60c39.chunk.js",
+    "static/js/2.a0d60c39.chunk.js.map": "/react-covid-app/static/js/2.a0d60c39.chunk.js.map",
+    "index.html": "/react-covid-app/index.html",
+    "precache-manifest.6dfd6a21419288199850b5c45257ae64.js": "/react-covid-app/precache-manifest.6dfd6a21419288199850b5c45257ae64.js",
+    "service-worker.js": "/react-covid-app/service-worker.js",
+    "static/css/main.e502267a.chunk.css.map": "/react-covid-app/static/css/main.e502267a.chunk.css.map",
+    "static/js/2.a0d60c39.chunk.js.LICENSE.txt": "/react-covid-app/static/js/2.a0d60c39.chunk.js.LICENSE.txt",
+    "static/media/covid.png": "/react-covid-app/static/media/covid.d7265326.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.948b6ba1.js",
-    "static/js/2.250b8e4b.chunk.js",
+    "static/js/runtime-main.ab6ab947.js",
+    "static/js/2.a0d60c39.chunk.js",
     "static/css/main.e502267a.chunk.css",
     "static/js/main.0731acb8.chunk.js"
   ]
